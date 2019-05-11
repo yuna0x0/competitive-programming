@@ -39,3 +39,6 @@ main.cpp
 
 .vscode
 .DS_Store
+in.txt
+out.txt
+temp-note.txt
