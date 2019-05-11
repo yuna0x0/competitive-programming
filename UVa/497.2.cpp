@@ -1,7 +1,7 @@
 /*
  * UVa Q497: Strategic Defense Initiative
  * 
- * Time complexity: O(n log n)
+ * Time complexity: O(n*m)
  */
 #include <iostream>
 using namespace std;
@@ -57,27 +57,17 @@ int main()
             }
             else
             {
-                int max = lisl - 1;
-                int min = 1;
-                int mid;
-                int ans = -1;
-                while (max >= min)
+                for (int j = lisl - 1; j >= 1; j--)
                 {
-                    mid = (max + min) / 2;
-                    if (lis_best[mid] < num)
+                    if (lis_best[j] < num)
                     {
-                        ans = mid;
-                        min = mid + 1;
-                    }
-                    else
-                    {
-                        max = mid - 1;
+                        lis_best[j + 1] = num;
+                        lis_best_pos[j + 1] = i;
+                        lis_best_source[j + 1] = lis_best_pos[j];
+                        arr_source[i] = lis_best_source[j + 1];
+                        break;
                     }
                 }
-                lis_best[ans + 1] = num;
-                lis_best_pos[ans + 1] = i;
-                lis_best_source[ans + 1] = lis_best_pos[ans];
-                arr_source[i] = lis_best_source[ans + 1];
             }
         }
         cout << "Max hits: " << lisl << endl;
