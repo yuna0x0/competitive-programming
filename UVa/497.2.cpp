@@ -1,6 +1,6 @@
 /*
  * UVa Q497: Strategic Defense Initiative
- * 
+ * Lucky Cat Link: http://luckycat.kshs.kh.edu.tw/homework/q497.htm
  * Time complexity: O(n*m)
  */
 #include <iostream>
