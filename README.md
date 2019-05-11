@@ -1,1 +1,1 @@
-# competitive-programming-problems
+# competitive-programming
