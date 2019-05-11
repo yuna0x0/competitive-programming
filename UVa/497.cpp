@@ -1,5 +1,6 @@
 /*
  * UVa Q497: Strategic Defense Initiative
+ * Tag: LIS
  * Lucky Cat Link: http://luckycat.kshs.kh.edu.tw/homework/q497.htm
  * Time complexity: O(n log n)
  */
