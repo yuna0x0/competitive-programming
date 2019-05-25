@@ -32,10 +32,11 @@
 *.app
 
 main
-main.dSYM
+*.dSYM
 
 # main.cpp is used to compile
 main.cpp
+main.*.cpp
 
 .vscode
 .DS_Store
