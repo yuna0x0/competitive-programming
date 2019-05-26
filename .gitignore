@@ -43,3 +43,4 @@ main.*.cpp
 in.txt
 out.txt
 temp-note.txt
+temp-note.*.txt
