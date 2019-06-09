@@ -1,5 +1,5 @@
 /*
- * UVa Q497: Strategic Defense Initiative
+ * UVa Q497: Strategic Defense Initiative (C++)
  * Tag: LIS
  * Lucky Cat Link: http://luckycat.kshs.kh.edu.tw/homework/q497.htm
  * Time complexity: O(n*m)

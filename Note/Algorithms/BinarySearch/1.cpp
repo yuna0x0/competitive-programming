@@ -1,5 +1,5 @@
 /*
- * Binary Search [輸入 q，進行二分搜尋，然後輸出一個於陣列中的位置，該位置左邊全部的數字都小於 q]
+ * Binary Search (C++) [輸入 q，進行二分搜尋，然後輸出一個於陣列中的位置，該位置左邊全部的數字都小於 q]
  * Time complexity: O(log n)
  */
 #include <iostream>

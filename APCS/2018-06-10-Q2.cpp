@@ -1,5 +1,5 @@
 /*
- * APCS 2018/6/10 Q2
+ * APCS 2018/6/10 Q2 (C++)
  */
 #include <iostream>
 using namespace std;

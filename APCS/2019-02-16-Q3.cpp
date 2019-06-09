@@ -1,5 +1,5 @@
 /*
- * APCS 2019/2/16 Q3
+ * APCS 2019/2/16 Q3 (C++)
  * Tag: Stack
  */
 #include <iostream>

@@ -1,5 +1,5 @@
 /*
- * UVa Q11462: Age Sort
+ * UVa Q11462: Age Sort (C++)
  * ZeroJudge d190
  * Lucky Cat Link: http://luckycat.kshs.kh.edu.tw/homework/q11462.htm
  */

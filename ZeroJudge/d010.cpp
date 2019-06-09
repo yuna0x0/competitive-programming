@@ -1,5 +1,5 @@
 /*
- * ZeroJudge d010
+ * ZeroJudge d010 (C++)
  * Tag: Math, Stack
  * Link: https://zerojudge.tw/ShowProblem?problemid=d010
  */

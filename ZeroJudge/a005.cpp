@@ -1,5 +1,5 @@
 /*
- * ZeroJudge a005
+ * ZeroJudge a005 (C++)
  * Tag: Loop
  * Link: https://zerojudge.tw/ShowProblem?problemid=a005
  */

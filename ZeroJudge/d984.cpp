@@ -1,5 +1,5 @@
 /*
- * ZeroJudge d984
+ * ZeroJudge d984 (C++)
  * Tag: Logic
  * Link: https://zerojudge.tw/ShowProblem?problemid=d984
  */

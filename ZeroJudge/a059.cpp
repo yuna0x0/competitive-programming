@@ -1,5 +1,5 @@
 /*
- * ZeroJudge a059
+ * ZeroJudge a059 (C++)
  * Link: https://zerojudge.tw/ShowProblem?problemid=a059
  */
 #include <iostream>

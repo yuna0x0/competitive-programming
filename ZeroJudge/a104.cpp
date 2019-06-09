@@ -1,5 +1,5 @@
 /*
- * ZeroJudge a104
+ * ZeroJudge a104 (C++)
  * Link: https://zerojudge.tw/ShowProblem?problemid=a104
  */
 #include <iostream>

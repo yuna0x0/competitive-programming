@@ -1,5 +1,5 @@
 /*
- * ZeroJudge b558
+ * ZeroJudge b558 (C++)
  * Tag: Math
  * Link: https://zerojudge.tw/ShowProblem?problemid=b558
  */
