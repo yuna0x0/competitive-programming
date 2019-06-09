@@ -1,5 +1,6 @@
 /*
  * APCS 2016/10/29 Q4
+ * Link: https://apcs.csie.ntnu.edu.tw/wp-content/uploads/2018/12/1051029APCSImplementation.pdf
  */
 #include <iostream>
 using namespace std;
