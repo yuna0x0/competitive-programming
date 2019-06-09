@@ -1,5 +1,6 @@
 /*
  * ZeroJudge a059
+ * Link: https://zerojudge.tw/ShowProblem?problemid=a059
  */
 #include <iostream>
 #include <unordered_map>

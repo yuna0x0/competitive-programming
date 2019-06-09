@@ -1,6 +1,7 @@
 /*
  * ZeroJudge b558
  * Tag: Math
+ * Link: https://zerojudge.tw/ShowProblem?problemid=b558
  */
 #include <iostream>
 using namespace std;

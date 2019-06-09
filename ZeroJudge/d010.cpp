@@ -1,6 +1,7 @@
 /*
  * ZeroJudge d010
  * Tag: Math, Stack
+ * Link: https://zerojudge.tw/ShowProblem?problemid=d010
  */
 #include <iostream>
 using namespace std;

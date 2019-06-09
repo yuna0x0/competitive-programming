@@ -1,6 +1,7 @@
 /*
  * ZeroJudge a005
  * Tag: Loop
+ * Link: https://zerojudge.tw/ShowProblem?problemid=a005
  */
 #include <iostream>
 using namespace std;

@@ -1,6 +1,7 @@
 /*
  * ZeroJudge d984
  * Tag: Logic
+ * Link: https://zerojudge.tw/ShowProblem?problemid=d984
  */
 #include <iostream>
 using namespace std;

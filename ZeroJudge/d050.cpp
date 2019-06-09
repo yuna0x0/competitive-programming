@@ -1,5 +1,6 @@
 /*
  * ZeroJudge d050
+ * Link: https://zerojudge.tw/ShowProblem?problemid=d050
  */
 #include <iostream>
 using namespace std;
