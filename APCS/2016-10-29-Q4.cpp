@@ -1,6 +1,8 @@
 /*
  * APCS 2016/10/29 Q4 (C++)
+ * ZeroJudge c297
  * Link: https://apcs.csie.ntnu.edu.tw/wp-content/uploads/2018/12/1051029APCSImplementation.pdf
+ * ZeroJudge Link: Link: https://zerojudge.tw/ShowProblem?problemid=c297
  */
 #include <iostream>
 using namespace std;
