@@ -5,6 +5,7 @@
  */
 #include <iostream>
 using namespace std;
+
 struct stack
 {
     int arr[100005];

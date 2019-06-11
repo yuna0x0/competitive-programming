@@ -6,6 +6,7 @@
  */
 #include <iostream>
 using namespace std;
+
 int f91(int N)
 {
     if (N <= 100)

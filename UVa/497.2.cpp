@@ -6,6 +6,7 @@
  */
 #include <iostream>
 using namespace std;
+
 int arr[1000005], arr_source[1000005];
 int lis_best[1000005], lis_best_pos[1000005], lis_best_source[1000005] = {0};
 int ans[1000005];
