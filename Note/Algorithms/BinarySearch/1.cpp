@@ -4,6 +4,7 @@
  */
 #include <iostream>
 using namespace std;
+
 int main()
 {
     int arr[] = {1, 2, 4, 4, 5, 5, 5, 68, 99, 200, 246, 899, 899};
