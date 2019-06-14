@@ -3,6 +3,7 @@
  * Link: https://zerojudge.tw/ShowProblem?problemid=a001
  */
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main()

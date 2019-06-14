@@ -3,6 +3,7 @@
  * Lucky Cat Link: http://luckycat.kshs.kh.edu.tw/homework/q10295.htm
  */
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main()

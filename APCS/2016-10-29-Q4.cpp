@@ -5,7 +5,9 @@
  * ZeroJudge Link: Link: https://zerojudge.tw/ShowProblem?problemid=c297
  */
 #include <iostream>
+#include <string>
 using namespace std;
+
 string stat[15][15];
 int a = 0; //statN
 int b = 0; //outN
